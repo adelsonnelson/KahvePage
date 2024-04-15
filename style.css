@@ -47,7 +47,7 @@ body{
     transition: all 0.5s;
 }
 .navigation ul li a:hover{
-    color: #073933;
+    color: #073932;
 }
 .navigation i{
     cursor: pointer;
